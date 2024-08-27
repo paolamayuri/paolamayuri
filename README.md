@@ -21,7 +21,7 @@ Olá, meu nome é Paola Mayuri, sou estudante de Análise e Desenvolvimento de S
 <a href="https://github.com/paolamayuri" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/paolamayuri" target="_blank">
+<a href="https://br.linkedin.com/in/paola-mayuri-7a8a3626b" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/mxyuris" target="_blank">
